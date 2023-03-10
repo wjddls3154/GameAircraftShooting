@@ -1,4 +1,5 @@
 # 비행기 슈팅 게임
+- 블로그에 내용 정리 : https://blog.naver.com/wjddls3154/222650476165
 ## * 메인화면 - 메인화면 BGM 포함
 ### (엔터를 누르면 게임을 시작한다.)
 ![1](https://user-images.githubusercontent.com/37132897/154782231-ecd6789d-fc6c-4b90-b378-913bd8734b8c.png)
